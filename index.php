@@ -16,11 +16,11 @@
 		exec ("gpio read ".$i, $status[$i], $return );
 		//if off
 		if ($status[$i][0] == 0 ) {
-		echo ("<img id='button_".$i."' src='data/img/red/red_".$i.".jpg' alt='off'/>");
+		echo ("<img id='button_".$i."' src='red_".$i.".jpg' alt='off'/>");
 		}
 		//if on
 		if ($status[$i][0] == 1 ) {
-		echo ("<img id='button_".$i."' src='data/img/green/green_".$i.".jpg' alt='on'/>");
+		echo ("<img id='button_".$i."' src='green_".$i.".jpg' alt='on'/>");
 		}	 
 	 }
 	 ?>

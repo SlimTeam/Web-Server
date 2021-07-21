@@ -39,7 +39,7 @@ button_0.addEventListener("click", function () {
 		var new_status = change_pin ( 0, 0);
 		if (new_status !== "fail") { 
 			button_0.alt = "on"
-			button_0.src = "data/img/green/green_0.jpg"; 
+			button_0.src = "green_0.jpg"; 
 			return 0;
 			}
 		}
@@ -49,7 +49,7 @@ button_0.addEventListener("click", function () {
 		var new_status = change_pin ( 0, 1);
 		if (new_status !== "fail") { 
 			button_0.alt = "off"
-			button_0.src = "data/img/red/red_0.jpg"; 
+			button_0.src = "red_0.jpg"; 
 			return 0;
 			}
 		}
@@ -62,7 +62,7 @@ button_1.addEventListener("click", function () {
 		var new_status = change_pin ( 1, 0);
 		if (new_status !== "fail") { 
 			button_1.alt = "on"
-			button_1.src = "data/img/green/green_1.jpg"; 
+			button_1.src = "green_1.jpg"; 
 			return 0;
 			}
 		}
@@ -72,7 +72,7 @@ button_1.addEventListener("click", function () {
 		var new_status = change_pin ( 1, 1);
 		if (new_status !== "fail") { 
 			button_1.alt = "off"
-			button_1.src = "data/img/red/red_1.jpg"; 
+			button_1.src = "red_1.jpg"; 
 			return 0;
 			}
 		}
@@ -85,7 +85,7 @@ button_2.addEventListener("click", function () {
 		var new_status = change_pin ( 2, 0);
 		if (new_status !== "fail") { 
 			button_2.alt = "on"
-			button_2.src = "data/img/green/green_2.jpg"; 
+			button_2.src = "green_2.jpg"; 
 			return 0;
 			}
 		}
@@ -95,7 +95,7 @@ button_2.addEventListener("click", function () {
 		var new_status = change_pin ( 2, 1);
 		if (new_status !== "fail") { 
 			button_2.alt = "off"
-			button_2.src = "data/img/red/red_2.jpg"; 
+			button_2.src = "red_2.jpg"; 
 			return 0;
 			}
 		}
@@ -108,7 +108,7 @@ button_3.addEventListener("click", function () {
 		var new_status = change_pin ( 3, 0);
 		if (new_status !== "fail") { 
 			button_3.alt = "on"
-			button_3.src = "data/img/green/green_3.jpg"; 
+			button_3.src = "green_3.jpg"; 
 			return 0;
 			}
 		}
@@ -118,7 +118,7 @@ button_3.addEventListener("click", function () {
 		var new_status = change_pin ( 3, 1);
 		if (new_status !== "fail") { 
 			button_3.alt = "off"
-			button_3.src = "data/img/red/red_3.jpg"; 
+			button_3.src = "red_3.jpg"; 
 			return 0;
 			}
 		}
@@ -131,7 +131,7 @@ button_4.addEventListener("click", function () {
 		var new_status = change_pin ( 4, 0);
 		if (new_status !== "fail") { 
 			button_4.alt = "on"
-			button_4.src = "data/img/green/green_4.jpg"; 
+			button_4.src = "green_4.jpg"; 
 			return 0;
 			}
 		}
@@ -141,7 +141,7 @@ button_4.addEventListener("click", function () {
 		var new_status = change_pin ( 4, 1);
 		if (new_status !== "fail") { 
 			button_4.alt = "off"
-			button_4.src = "data/img/red/red_4.jpg"; 
+			button_4.src = "red_4.jpg"; 
 			return 0;
 			}
 		}
@@ -154,7 +154,7 @@ button_5.addEventListener("click", function () {
 		var new_status = change_pin ( 5, 0);
 		if (new_status !== "fail") { 
 			button_5.alt = "on"
-			button_5.src = "data/img/green/green_5.jpg"; 
+			button_5.src = "green_5.jpg"; 
 			return 0;
 			}
 		}
@@ -164,7 +164,7 @@ button_5.addEventListener("click", function () {
 		var new_status = change_pin ( 5, 1);
 		if (new_status !== "fail") { 
 			button_5.alt = "off"
-			button_5.src = "data/img/red/red_5.jpg"; 
+			button_5.src = "red_5.jpg"; 
 			return 0;
 			}
 		}
@@ -177,7 +177,7 @@ button_6.addEventListener("click", function () {
 		var new_status = change_pin ( 6, 0);
 		if (new_status !== "fail") { 
 			button_6.alt = "on"
-			button_6.src = "data/img/green/green_6.jpg"; 
+			button_6.src = "green_6.jpg"; 
 			return 0;
 			}
 		}
@@ -187,7 +187,7 @@ button_6.addEventListener("click", function () {
 		var new_status = change_pin ( 6, 1);
 		if (new_status !== "fail") { 
 			button_6.alt = "off"
-			button_6.src = "data/img/red/red_6.jpg"; 
+			button_6.src = "red_6.jpg"; 
 			return 0;
 			}
 		}
@@ -200,7 +200,7 @@ button_7.addEventListener("click", function () {
 		var new_status = change_pin ( 7, 0);
 		if (new_status !== "fail") { 
 			button_7.alt = "on"
-			button_7.src = "data/img/green/green_7.jpg"; 
+			button_7.src = "green_7.jpg"; 
 			return 0;
 			}
 		}
@@ -210,7 +210,7 @@ button_7.addEventListener("click", function () {
 		var new_status = change_pin ( 7, 1);
 		if (new_status !== "fail") { 
 			button_7.alt = "off"
-			button_7.src = "data/img/red/red_7.jpg"; 
+			button_7.src = "red_7.jpg"; 
 			return 0;
 			}
 		}
